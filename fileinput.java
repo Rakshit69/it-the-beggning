@@ -11,5 +11,6 @@ public class fileinput {
     //     FileOutputStream fl=new FileOutputStream(new File("ok"));
     //     ObjectInputStream ob=new ObjectInputStream(fl);
     //     student s=(student)ob.readObject();
+    /////////////////jjjmk,
     // }/
 }
