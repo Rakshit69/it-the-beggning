@@ -1,6 +1,9 @@
 import java.io.*;
 
 public class fileinput {
+    public static void main(String[] args) {
+        
+    }
     
     // public static void main(String[] args) {
     //     ReadObject i0 = new ReadObject();
